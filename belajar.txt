@@ -3,3 +3,4 @@ Rencana Belajar
 - Memperdalam materi code igniter
 - Memperdalam materi laravel
 - Memperdalam materi flutter dan react native
+- Memperdalam materi vue
